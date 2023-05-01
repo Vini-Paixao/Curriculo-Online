@@ -1,4 +1,4 @@
-# Curriculo Online
+# Currículo Online
 Este projeto consiste em uma versão online do meu currículo, desenvolvido utilizando as linguagens HTML, CSS e Javascript. O design e layout do currículo online foram inspirados no meu currículo em formato de website WordPress.
 
 ## Acesso
