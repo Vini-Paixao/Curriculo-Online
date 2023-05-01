@@ -25,7 +25,3 @@ Este é um projeto pessoal, mas sinta-se à vontade para contribuir com sugestõ
 
 Marcus Vinicius de Aguiar Paixão - usando como base o tema WordPress que pode ser acessado.<br>
 [Clicando Aqui](https://marcuspaixao.com.br)
-
-## Licença
-
-Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
