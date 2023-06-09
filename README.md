@@ -5,7 +5,7 @@ Este projeto consiste em uma versão online do meu currículo, desenvolvido util
 ## Acesso
 
 Você pode acessar o meu currículo clicando no link a baixo.<br>
-[Clique Aqui](https://curriculo-html.marcuspaixao.com.br/resumo.html)
+[Clique Aqui](https://curriculo-html.marcuspaixao.com.br)
 
 ## Funcionalidades
 
