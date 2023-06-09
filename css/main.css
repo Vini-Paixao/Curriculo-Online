@@ -1938,6 +1938,7 @@ ul.social-links li:last-child a {
 }
 
 .skill-text {
+  align-items: center;
   padding: 5px;
   border-radius: 5px;
   text-align: center;
